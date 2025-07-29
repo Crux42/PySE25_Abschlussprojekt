@@ -6,7 +6,7 @@
 *CLIMATE CRYSTAL ORB*
 
 **Kurzbeschreibung:**  
-*Mittels historischer Wetterdaten und einer KI-Auswertung soll das zukünftige Wetter für Linz vorhergesagt werden.*
+*Mittels historischer Wetterdaten und KI-Auswertung soll das zukünftige Wetter für Linz vorhergesagt werden. Dabei werden die Wetterdaten aus den folgenden Städten aufgezeichnet: Linz, Prag, Brünn, Bratislava, Maribor, Villach, Innsbruck, München, Regensburg, Amsterdam, La Rochelle, Genua, Zadar, Belgrad, Warschau. Zusätzlich werden Wetterkarten von Europa über einen bestimmten Zeitraum aufgezeichnet. Das Modell (Letztstand: LSTM decoder-encoder attention) errechnet aus den letzten 3 Wochen, bei 30-Minuten-Intervallen, das Wetter der nächsten 60 Stunden für Linz.*
 
 **Zielgruppe / Use Case:**  
 *Das Projekt dient lediglich als persönlichen Test.*
